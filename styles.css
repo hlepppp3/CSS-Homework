@@ -1,0 +1,30 @@
+/* font-style: italic === <i></i> */
+
+p {}
+li {}
+
+.className {}
+
+#idName {
+  color: rgb(83, 6, 6);
+}
+
+.text {
+
+}
+
+h1 {
+  color: red;
+}
+
+a {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+p, a, h1 {
+  color: red;
+}
